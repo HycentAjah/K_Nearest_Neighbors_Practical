@@ -1,6 +1,6 @@
 # K_Nearest_Neighbors_Practical
 K-Nearest Neighbors Machine Learning Practical
-# K-Nearest Neighbors (KNN) Practical
+### K-Nearest Neighbors (KNN) Practical
 
 This is a practical for K Nearest Neighbor (KNN) model machine learning classification model. 
 
